@@ -27,3 +27,6 @@ SELECT Continent, Location, Date, Population, New_vaccinations, RollingPeopleVac
 FROM PercentPopulationVaccinated
 WHERE New_vaccinations IS NOT NULL
 ORDER BY 1,2,5
+
+-- Drop the temp table after use
+DROP TABLE PercentPopulationVaccinated;
