@@ -31,5 +31,5 @@ Additionally, the script includes queries to identify countries with the highest
 
 
 
-License
+## License
 This project is licensed under the MIT License.
