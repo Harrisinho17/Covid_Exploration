@@ -1,4 +1,4 @@
--- Shows Percentage of Population that has recieved a Covid  Vaccine
+-- Shows Percentage of Population that has recieved a Covid Vaccine
 
 WITH popvsvac (continent,location,date,population,new_vaccinations, rollingpeoplevaccinated)
 as

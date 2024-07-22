@@ -1,8 +1,8 @@
 -- Countries with Highest Death Count per Population
 
-Select Location, MAX(cast(Total_deaths as int)) as TotalDeathCount
+SELECT Location, MAX(CAST(Total_deaths AS int)) AS TotalDeathCount
 FROM "CovidExp"."CovidDeaths"
--- location = 'North America'
-WHERE total_deaths is not null 
-Group by Location
-order by TotalDeathCount desc
+WHERE Total_deaths IS NOT NULL
+  AND Location NOT IN ('World', 'high income', 'Upper Middle income', 'Europe', 'North America', 'Asia', 'South America', 'Lower Middle Income', 'European Union')
+GROUP BY Location
+ORDER BY TotalDeathCount DESC;
