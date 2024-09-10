@@ -23,7 +23,7 @@ Additionally, the script includes queries to identify countries with the highest
 ## Project Insights
 
 - **Conclusion**:
-- **Dashboard**: (Covid Visualization Dashboard)[https://public.tableau.com/app/profile/alexander.harris7255/viz/Covid_Visualization_17240932164130/Dashboard1?publish=yes]
+- **Dashboard**:[Covid Visualization Dashboard](https://public.tableau.com/app/profile/alexander.harris7255/viz/Covid_Visualization_17240932164130/Dashboard1?publish=yes)
 
 
 ## Acknowledgements
