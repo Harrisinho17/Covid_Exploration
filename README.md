@@ -20,15 +20,16 @@ Additionally, the script includes queries to identify countries with the highest
 - **Query Results**: Stores results of executed SQL queries.
 - **SQL**: Contains SQL scripts used for data exploration.
 
+## Project Insights
+
+- **Conclusion**:
+- **Dashboard**: (Covid Visualization Dashboard)[https://public.tableau.com/app/profile/alexander.harris7255/viz/Covid_Visualization_17240932164130/Dashboard1?publish=yes]
+
 
 ## Acknowledgements
 
 - **The inspiration for this project lies in the hands of AlexTheAnalyst on youtube and his course on Data Analytics.**
 - **Data was gathered from https://ourworldindata.org/covid-deaths.**
-
-
-
-
 
 
 ## License
