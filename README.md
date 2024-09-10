@@ -23,7 +23,17 @@ Additionally, the script includes queries to identify countries with the highest
 ## Project Insights
 
 - **Conclusion**:
-- **Dashboard**:[Covid Visualization Dashboard](https://public.tableau.com/app/profile/alexander.harris7255/viz/Covid_Visualization_17240932164130/Dashboard1?publish=yes)
+  - The Analysis of Global Numbers of Infection from SARS-CoV-2 shows that out 775 million cases world wide 7 million resulted in death resulting in a .91% fatality rate. This could be due to the fact that this analysis was done after Covid had been studied and vaccines were created resulting in a plateu in the number of deaths.
+
+  - The Analysis of Total Deaths per Continent shows that Europe lead the World with the most Covid Deaths by nearly 400 thousand. This could be due to the high levels of travel between the countries in the continent.
+ 
+  - The Analysis of Percent Population Infected shows that there was a gradual and consitent spike in Infections in 2021 and a much stepper raise in infections in 2022.  This could reflect the impact of initial waves of the pandemic and subsequent measures to control it.
+ 
+  - The Analysis of Percent Population infected per country shows that regions with like Africa or South America had a lower Infection rate compared to Regions like North America and Europe. This could be from lack of data during the beginning of Covid.
+ 
+    
+- **Dashboard**:
+  [Covid Visualization Dashboard](https://public.tableau.com/app/profile/alexander.harris7255/viz/Covid_Visualization_17240932164130/Dashboard1?publish=yes)
 
 
 ## Acknowledgements
